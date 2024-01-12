@@ -1,0 +1,40 @@
+body{
+    background-color: #CD853F;
+    text-align: center;
+    font-family: cursive;
+}
+header{
+    background-color: #cc5500;
+}
+header h1{
+font-size: 30px;
+
+}
+main{
+    background-color: #964b00;
+}
+nav{
+background-color: #8b4c14;
+padding: 15px;
+border: 10px double #ab5c16;
+}
+nav a{
+    background-color: #884000;
+    border-radius: 30px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+h2{
+    background-color: #4e2501;
+    border-radius: 30px;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(236, 106, 0);
+    margin: 20px;
+}
+footer{
+    background-color: #e9a969;
+    font-size: 30px;
+}
